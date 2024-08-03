@@ -103,3 +103,5 @@
 </picture>
 [![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/JustVimeR/)
 
+[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/JustVimeR/)
+
