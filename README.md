@@ -1,5 +1,20 @@
-<h1 align="center">Hi there, I'm Vladyslav</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+<h1 align="center">Hi there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>, I'm Vladyslav</h1> 
+<h2 align="center">I'm a frontend engineer</h2>
+
+<div align="center" style="margin-left:120px">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student" alt="Typing SVG">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/taran-vladyslav/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30px" style="padding-right:10px"/>
+  </a>
+   <a href="https://github.com/JustVimeR" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="30px" style="padding-right:10px"/>
+  </a>
+</div>
 
 ---
 
@@ -32,6 +47,7 @@
 <img align="left" alt="antdesign" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg"/>
 <img align="left" alt="bootstrap" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
 <img align="left" alt="tailwindcss" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>
+<img align="left" alt="chakraui" width="30px" style="padding-right:10px" src="assets/chakraui.png"/>
 
 <br />
 
@@ -46,6 +62,8 @@
 <img align="left" alt="figma" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
 
 <br />
+
+---
 
   <table>
     <tr>
