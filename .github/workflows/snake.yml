@@ -28,11 +28,10 @@ jobs:
           name: snake-animation
           path: dist/
 
-      - name: Add LinkedIn Badge to README
+      - name: Snake
         run: |
-          echo -e '[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/JustVimeR/)\n' >> README.md
           git config --global user.email "dog792804@gmail.com"
           git config --global user.name "JustVimeR"
           git add README.md
-          git commit -m "Add LinkedIn badge"
+          git commit -m "Add Snake"
           git push
