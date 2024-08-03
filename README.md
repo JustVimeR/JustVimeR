@@ -1,7 +1,7 @@
 <h1 align="center">Hi there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>, I'm Vladyslav</h1> 
 <h2 align="center">I'm a frontend engineer</h2>
 
-<div align="center" style="margin:220px">
+<div align="center" style="margin-left:220px">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student" alt="Typing SVG">
   </a>
