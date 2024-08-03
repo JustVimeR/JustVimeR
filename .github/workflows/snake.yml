@@ -1,0 +1,38 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: JustVimeR
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Upload Snake Animation
+        uses: actions/upload-artifact@v2
+        with:
+          name: snake-animation
+          path: dist/
+
+      - name: Add LinkedIn Badge to README
+        run: |
+          echo -e '[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/JustVimeR/)\n' >> README.md
+          git config --global user.email "dog792804@gmail.com"
+          git config --global user.name "JustVimeR"
+          git add README.md
+          git commit -m "Add LinkedIn badge"
+          git push
