@@ -1,3 +1,29 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Vlad</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-[![trophy](https://github-profile-trophy.vercel.app/?username=JustVimeR)](https://github.com/ryo-ma/github-profile-trophy)
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=JustVimeR&row=1&column=6" alt="trophy">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=JustVimeR" alt="GitHub streak stats">
+</div>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustVimeR" alt="Top Langs">
+      </a>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=JustVimeR&show_icons=true" alt="GitHub stats">
+    </td>
+  </tr>
+</table>
