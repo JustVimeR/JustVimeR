@@ -27,11 +27,3 @@ jobs:
         with:
           name: snake-animation
           path: dist/
-
-      - name: Snake
-        run: |
-          git config --global user.email "dog792804@gmail.com"
-          git config --global user.name "JustVimeR"
-          git add README.md
-          git commit -m "Add Snake"
-          git push
